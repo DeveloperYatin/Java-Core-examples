@@ -1,1 +1,3 @@
-# Java-Core-examples
+# Java-Core-Examples
+
+Examples for Advanced Core Java
